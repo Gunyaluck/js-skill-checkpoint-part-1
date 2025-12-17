@@ -14,7 +14,7 @@ myTodo[3].todo = "Go to the gym";
 //console.log(myTodo);
 
 myTodo.pop();
-//console.log(myTodo);
+console.log(myTodo);
 
 console.log(
   `To-do id: ${myTodo[myTodo.length - 1].id}, ${myTodo[myTodo.length - 1].todo}`
